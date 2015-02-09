@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #fff;
-  padding-top: 75px;
+  padding-top: 50px;
   font-family: 'Lobster', cursive;
   font-size: 6em;
   color: #fff;
@@ -23,4 +23,27 @@ body {
   color: #fff;
   margin: auto;
   padding: 100px;
+}
+
+h1 {
+  font-size: .2em;
+  text-decoration: none;
+  color: #8490AB;
+  margin: 0;
+  padding: 0;
+}
+
+a:link{
+  color: #8490AB;
+  text-decoration: none;
+}
+
+a:visited{
+  color: #CCC9C2;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #fff;
+  text-decoration: none;
 }
